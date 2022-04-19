@@ -78,4 +78,26 @@ iface eth0 inet static
 address 10.0.0.19
 netmask 255.255.255.0
 
+iface eth0 inet static
+address 10.0.0.20
+netmask 255.255.255.0
 
+iface eth0 inet static
+address 10.0.0.21
+netmask 255.255.255.0
+
+iface eth0 inet static
+address 10.0.0.22
+netmask 255.255.255.0
+
+iface eth0 inet static
+address 10.0.0.23
+netmask 255.255.255.0
+
+iface eth0 inet static
+address 10.0.0.24
+netmask 255.255.255.0
+
+iface eth0 inet static
+address 10.0.0.25
+netmask 255.255.255.0
